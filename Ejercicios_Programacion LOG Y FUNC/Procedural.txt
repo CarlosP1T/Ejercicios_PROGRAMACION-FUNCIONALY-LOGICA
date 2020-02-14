@@ -1,0 +1,11 @@
+console.log("Ejemplo de programacion Procedural");
+edad=18
+if(edad < 12) {
+  console.log("Todavía eres muy pequeño");
+} else if(edad < 19) {
+  console.log("Eres un adolescente");
+} else if(edad < 35) {
+  console.log("Aun sigues siendo joven");
+} else {
+  console.log("Piensa en cuidarte un poco más");
+}
